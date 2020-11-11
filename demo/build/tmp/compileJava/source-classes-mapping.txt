@@ -1,0 +1,8 @@
+se/sda/web/demo/DemoApplication.java
+ se.sda.web.demo.DemoApplication
+se/sda/web/demo/HelloController.java
+ se.sda.web.demo.HelloController
+se/sda/web/demo/NewsArticle/NewsArticle.java
+ se.sda.web.demo.NewsArticle.NewsArticle
+se/sda/web/demo/NewsArticle/NewsArticleController.java
+ se.sda.web.demo.NewsArticle.NewsArticleController
